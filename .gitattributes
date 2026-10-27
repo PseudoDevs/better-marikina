@@ -1,0 +1,6 @@
+# Store text files with LF line endings regardless of the editor's OS
+* text=auto eol=lf
+*.webp binary
+*.png binary
+*.jpg binary
+*.ico binary
