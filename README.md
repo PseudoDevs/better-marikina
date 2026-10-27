@@ -83,4 +83,11 @@ npm run snapshot:fdpp        # refresh the transparency-portal fallback snapshot
 npm run snapshot:citygov     # refresh officials, Our City text and news (retries slow pages)
 ```
 
-Code MIT · Content CC BY 4.0
+## License
+
+Code is [MIT](LICENSE). Original text in `src/data` and `docs/` is
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Material republished
+from the City Government of Marikina and other sources remains theirs and is
+credited where it appears. The Marikina City seal is public domain (Wikimedia
+Commons). Live data belongs to its providers: PAGASA, Open-Meteo (CC BY 4.0),
+USGS, and OpenStreetMap contributors (ODbL).
