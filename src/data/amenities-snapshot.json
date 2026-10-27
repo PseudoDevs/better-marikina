@@ -1,0 +1,1370 @@
+{
+ "fetchedAt": "2026-10-27",
+ "amenities": [
+  {
+   "id": "node/30759930",
+   "name": "The Children's House School",
+   "kind": "school",
+   "lat": 14.6499314,
+   "lon": 121.1181615
+  },
+  {
+   "id": "node/30760002",
+   "name": "Victoria School",
+   "kind": "school",
+   "lat": 14.651408,
+   "lon": 121.1134336
+  },
+  {
+   "id": "node/30760141",
+   "name": "Minds in Motion Learning Center",
+   "kind": "school",
+   "lat": 14.646612,
+   "lon": 121.1151401
+  },
+  {
+   "id": "node/30760151",
+   "name": "Covenant Children Academy",
+   "kind": "school",
+   "lat": 14.6455073,
+   "lon": 121.118793,
+   "address": "167 General Ordoñez Street"
+  },
+  {
+   "id": "node/30760175",
+   "name": "DC Integrated School for Early Achievers",
+   "kind": "school",
+   "lat": 14.6584141,
+   "lon": 121.1143844,
+   "address": "23 R. Magsaysay Street"
+  },
+  {
+   "id": "node/41955369",
+   "name": "Sta. Clara Academy",
+   "kind": "school",
+   "lat": 14.6218221,
+   "lon": 121.0944032
+  },
+  {
+   "id": "node/255058703",
+   "name": "Police Community Precinct",
+   "kind": "police",
+   "lat": 14.6291528,
+   "lon": 121.0983621
+  },
+  {
+   "id": "node/255067324",
+   "name": "Central Police Station",
+   "kind": "police",
+   "lat": 14.6330419,
+   "lon": 121.100654
+  },
+  {
+   "id": "node/318616475",
+   "name": "Saint Nicholas High School",
+   "kind": "school",
+   "lat": 14.6618521,
+   "lon": 121.1013148
+  },
+  {
+   "id": "node/661976394",
+   "name": "Bulwagang Pambarangay ng Tumana",
+   "kind": "townhall",
+   "lat": 14.6563015,
+   "lon": 121.097077
+  },
+  {
+   "id": "node/671917097",
+   "name": "Barangay Calumpang Health Center",
+   "kind": "clinic",
+   "lat": 14.6218267,
+   "lon": 121.0932123
+  },
+  {
+   "id": "node/672667263",
+   "name": "PCP",
+   "kind": "police",
+   "lat": 14.6632601,
+   "lon": 121.1275081,
+   "address": "Champaca 1"
+  },
+  {
+   "id": "node/686074693",
+   "name": "Barangka Health Center",
+   "kind": "clinic",
+   "lat": 14.6330533,
+   "lon": 121.0823397
+  },
+  {
+   "id": "node/696288722",
+   "name": "Jesus Flock Academy School",
+   "kind": "school",
+   "lat": 14.6236186,
+   "lon": 121.085381
+  },
+  {
+   "id": "node/696288900",
+   "name": "Eastern Marikina Dialysis Center",
+   "kind": "clinic",
+   "lat": 14.6207083,
+   "lon": 121.1032412
+  },
+  {
+   "id": "node/696288903",
+   "name": "St Chamuel Institute of Technology",
+   "kind": "school",
+   "lat": 14.6208429,
+   "lon": 121.103799,
+   "address": "Marcos Highway"
+  },
+  {
+   "id": "node/696288921",
+   "name": "A1 Driving",
+   "kind": "school",
+   "lat": 14.6212618,
+   "lon": 121.1030727
+  },
+  {
+   "id": "node/696289145",
+   "name": "Kidney Clinic - Dr De Guzman",
+   "kind": "clinic",
+   "lat": 14.627507,
+   "lon": 121.097097
+  },
+  {
+   "id": "node/696289157",
+   "name": "Dr. Elmer Santos Pediatrician Clinic",
+   "kind": "clinic",
+   "lat": 14.6289383,
+   "lon": 121.096816
+  },
+  {
+   "id": "node/1398660697",
+   "name": "The Learning House",
+   "kind": "school",
+   "lat": 14.6524506,
+   "lon": 121.1299631,
+   "address": "Champaca Street"
+  },
+  {
+   "id": "node/2620961236",
+   "name": "Asian Institute of Computer Studies",
+   "kind": "school",
+   "lat": 14.6351827,
+   "lon": 121.0971858
+  },
+  {
+   "id": "node/2657900160",
+   "name": "Children's Clinic",
+   "kind": "clinic",
+   "lat": 14.6328759,
+   "lon": 121.0950723
+  },
+  {
+   "id": "node/2661562741",
+   "name": "Women's Grace Maternity Clinic & Diagnostic Center",
+   "kind": "clinic",
+   "lat": 14.6351991,
+   "lon": 121.0944497,
+   "address": "Jose P. Rizal Street"
+  },
+  {
+   "id": "node/2904688328",
+   "name": "Unnamed clinic",
+   "kind": "clinic",
+   "lat": 14.6390942,
+   "lon": 121.0983793
+  },
+  {
+   "id": "node/3288424894",
+   "name": "Unnamed police",
+   "kind": "police",
+   "lat": 14.6331681,
+   "lon": 121.0955976,
+   "address": "Kapitan Venciong Street"
+  },
+  {
+   "id": "node/3466648739",
+   "name": "King Shepherds Flock Christian Academy Inc.",
+   "kind": "school",
+   "lat": 14.6717839,
+   "lon": 121.1183721,
+   "address": "17 Saint Paul Street"
+  },
+  {
+   "id": "node/3578952587",
+   "name": "Marikina Community Police Precint № 8",
+   "kind": "police",
+   "lat": 14.6396494,
+   "lon": 121.1216995,
+   "address": "Lilac Street"
+  },
+  {
+   "id": "node/3593959629",
+   "name": "Dr. J.F. Cadiz Healthy Clinic",
+   "kind": "clinic",
+   "lat": 14.6405753,
+   "lon": 121.0942803,
+   "address": "528 J. P. Rizal Street"
+  },
+  {
+   "id": "node/3594000871",
+   "name": "JCLAM Christian School",
+   "kind": "school",
+   "lat": 14.644827,
+   "lon": 121.0959876,
+   "address": "J. P. Rizal Street"
+  },
+  {
+   "id": "node/3650427156",
+   "name": "Nangka Police Headquarters",
+   "kind": "police",
+   "lat": 14.6733496,
+   "lon": 121.1087721,
+   "address": "Old J. P. Rizal Street"
+  },
+  {
+   "id": "node/3658574142",
+   "name": "BCI-CCS Marikina",
+   "kind": "school",
+   "lat": 14.6490726,
+   "lon": 121.1119213,
+   "address": "General Ordoñez Street"
+  },
+  {
+   "id": "node/4290400589",
+   "name": "Dra. Juliana S. Nombrado OB-Gyne Clinic",
+   "kind": "clinic",
+   "lat": 14.6289067,
+   "lon": 121.096826
+  },
+  {
+   "id": "node/4376019790",
+   "name": "Racer HQ",
+   "kind": "clinic",
+   "lat": 14.6226319,
+   "lon": 121.0964979
+  },
+  {
+   "id": "node/5222519921",
+   "name": "Joshua Caleb Christian School",
+   "kind": "school",
+   "lat": 14.6540946,
+   "lon": 121.0981418,
+   "address": "Okra Street"
+  },
+  {
+   "id": "node/6017358086",
+   "name": "Boys Home",
+   "kind": "shelter",
+   "lat": 14.66436,
+   "lon": 121.1194503
+  },
+  {
+   "id": "node/6017371185",
+   "name": "Foundling Children",
+   "kind": "shelter",
+   "lat": 14.6644638,
+   "lon": 121.118871
+  },
+  {
+   "id": "node/6017371186",
+   "name": "Luwalhati ng Maynila",
+   "kind": "shelter",
+   "lat": 14.6644846,
+   "lon": 121.1184955
+  },
+  {
+   "id": "node/6017371585",
+   "name": "Girls Home",
+   "kind": "shelter",
+   "lat": 14.6644535,
+   "lon": 121.1186671
+  },
+  {
+   "id": "node/6060455585",
+   "name": "APEC Schools",
+   "kind": "school",
+   "lat": 14.6490665,
+   "lon": 121.112255,
+   "address": "General Ordoñez Street"
+  },
+  {
+   "id": "node/6246470252",
+   "name": "Silk",
+   "kind": "clinic",
+   "lat": 14.6444911,
+   "lon": 121.1203086
+  },
+  {
+   "id": "node/7349883983",
+   "name": "Family Doc",
+   "kind": "clinic",
+   "lat": 14.6321165,
+   "lon": 121.0827133
+  },
+  {
+   "id": "node/8582887308",
+   "name": "Dr. Goodhealth Family Clinic",
+   "kind": "clinic",
+   "lat": 14.6212251,
+   "lon": 121.1031445
+  },
+  {
+   "id": "node/8633738003",
+   "name": "IVC Station",
+   "kind": "fire_station",
+   "lat": 14.627292,
+   "lon": 121.0800521,
+   "address": "Major S. Dizon Street"
+  },
+  {
+   "id": "node/8929794178",
+   "name": "Fortune Fire Brigade",
+   "kind": "fire_station",
+   "lat": 14.6632734,
+   "lon": 121.127792,
+   "address": "Champaca 1"
+  },
+  {
+   "id": "node/9109560271",
+   "name": "Valeriano E. Fugoso Memorial Elementary School",
+   "kind": "school",
+   "lat": 14.6665414,
+   "lon": 121.1185402
+  },
+  {
+   "id": "node/9109560272",
+   "name": "Valeriano E. Fugoso Memorial High School",
+   "kind": "school",
+   "lat": 14.6657872,
+   "lon": 121.1176296
+  },
+  {
+   "id": "node/9425825711",
+   "name": "CCMM Animal Bite Center",
+   "kind": "clinic",
+   "lat": 14.6359849,
+   "lon": 121.0971767
+  },
+  {
+   "id": "node/10787049501",
+   "name": "Malanday Police Sub-station",
+   "kind": "police",
+   "lat": 14.652513,
+   "lon": 121.0938946
+  },
+  {
+   "id": "node/12054070711",
+   "name": "DEUPED",
+   "kind": "clinic",
+   "lat": 14.6443512,
+   "lon": 121.1168547,
+   "address": "General Ordoñez Street"
+  },
+  {
+   "id": "node/12152993790",
+   "name": "Providence Christian School",
+   "kind": "school",
+   "lat": 14.6383032,
+   "lon": 121.0844548
+  },
+  {
+   "id": "node/12220705961",
+   "name": "Specialist Care",
+   "kind": "clinic",
+   "lat": 14.6419168,
+   "lon": 121.1109517
+  },
+  {
+   "id": "node/12257946694",
+   "name": "Unnamed shelter",
+   "kind": "shelter",
+   "lat": 14.6439843,
+   "lon": 121.114472
+  },
+  {
+   "id": "node/12638027993",
+   "name": "RVEC Clinics & Surgicenter",
+   "kind": "clinic",
+   "lat": 14.6376102,
+   "lon": 121.1018577,
+   "address": "Mayor Gil Fernando Avenue"
+  },
+  {
+   "id": "node/12675677946",
+   "name": "Pathfinder",
+   "kind": "school",
+   "lat": 14.6483989,
+   "lon": 121.1146937
+  },
+  {
+   "id": "node/12678077888",
+   "name": "MSH Academy",
+   "kind": "school",
+   "lat": 14.6559325,
+   "lon": 121.1307557
+  },
+  {
+   "id": "node/13248353060",
+   "name": "EIQ Child Development Center",
+   "kind": "school",
+   "lat": 14.6434258,
+   "lon": 121.0928944,
+   "address": "79 Malaya Street"
+  },
+  {
+   "id": "node/13579798251",
+   "name": "Smileglow",
+   "kind": "clinic",
+   "lat": 14.6442022,
+   "lon": 121.1173415
+  },
+  {
+   "id": "node/13969889061",
+   "name": "Santos Dental Health Clinic",
+   "kind": "clinic",
+   "lat": 14.6325061,
+   "lon": 121.0958244
+  },
+  {
+   "id": "way/5168988",
+   "name": "Marikina High School",
+   "kind": "school",
+   "lat": 14.6471157,
+   "lon": 121.1034265,
+   "address": "E. Santos Street"
+  },
+  {
+   "id": "way/5168990",
+   "name": "Marikina Elementary School",
+   "kind": "shelter",
+   "lat": 14.631281,
+   "lon": 121.0975287,
+   "address": "Shoe Avenue"
+  },
+  {
+   "id": "way/5168991",
+   "name": "Marikina Catholic School",
+   "kind": "school",
+   "lat": 14.6305536,
+   "lon": 121.0966026
+  },
+  {
+   "id": "way/5169066",
+   "name": "St. Scholastica Academy",
+   "kind": "school",
+   "lat": 14.6523701,
+   "lon": 121.1171991,
+   "address": "West Drive"
+  },
+  {
+   "id": "way/5235831",
+   "name": "Parang Elementary School",
+   "kind": "shelter",
+   "lat": 14.6573719,
+   "lon": 121.111698,
+   "address": "84 P. Paterno Street"
+  },
+  {
+   "id": "way/5235833",
+   "name": "Santo Niño National High School",
+   "kind": "school",
+   "lat": 14.6390114,
+   "lon": 121.0962517,
+   "address": "Agricultores Street"
+  },
+  {
+   "id": "way/5644348",
+   "name": "Hermogenes Bautista Elementary School",
+   "kind": "shelter",
+   "lat": 14.6579594,
+   "lon": 121.1041875,
+   "address": "J. P. Rizal Street"
+  },
+  {
+   "id": "way/5708235",
+   "name": "Parang High School",
+   "kind": "shelter",
+   "lat": 14.6634965,
+   "lon": 121.1123645,
+   "address": "55 Tandang Sora Street"
+  },
+  {
+   "id": "way/7972240",
+   "name": "Marikina City Hall",
+   "kind": "townhall",
+   "lat": 14.6330422,
+   "lon": 121.0989431
+  },
+  {
+   "id": "way/32631342",
+   "name": "Industrial Valley Elementary School",
+   "kind": "school",
+   "lat": 14.6217494,
+   "lon": 121.0803826,
+   "address": "O. De Guzman Street"
+  },
+  {
+   "id": "way/36748036",
+   "name": "Mother of Divine Providence School",
+   "kind": "school",
+   "lat": 14.6549451,
+   "lon": 121.1220541,
+   "address": "General Ordoñez Street"
+  },
+  {
+   "id": "way/38236882",
+   "name": "Leodegario Victorino Elementary School",
+   "kind": "school",
+   "lat": 14.6354074,
+   "lon": 121.0902136,
+   "address": "A. Bonifacio Avenue"
+  },
+  {
+   "id": "way/46507461",
+   "name": "Tañong High School",
+   "kind": "shelter",
+   "lat": 14.6341763,
+   "lon": 121.0853311,
+   "address": "3 Lopez Jaena Street"
+  },
+  {
+   "id": "way/48209843",
+   "name": "Nangka Elementary School",
+   "kind": "shelter",
+   "lat": 14.6729905,
+   "lon": 121.1084404,
+   "address": "4 Balubad Street"
+  },
+  {
+   "id": "way/48210073",
+   "name": "Malanday National High School",
+   "kind": "shelter",
+   "lat": 14.6467287,
+   "lon": 121.0903835
+  },
+  {
+   "id": "way/50982403",
+   "name": "Malanday Elementary School",
+   "kind": "shelter",
+   "lat": 14.6502834,
+   "lon": 121.0944079,
+   "address": "Malaya Street"
+  },
+  {
+   "id": "way/50982404",
+   "name": "Concepcion Integrated School",
+   "kind": "shelter",
+   "lat": 14.6505675,
+   "lon": 121.1019374
+  },
+  {
+   "id": "way/54025002",
+   "name": "Amang Rodriguez Memorial Medical Center",
+   "kind": "hospital",
+   "lat": 14.6361025,
+   "lon": 121.0984437,
+   "address": "Sumulong Highway"
+  },
+  {
+   "id": "way/54027061",
+   "name": "Marikina City Healthy Center",
+   "kind": "clinic",
+   "lat": 14.6362977,
+   "lon": 121.0976649
+  },
+  {
+   "id": "way/93197624",
+   "name": "National Cottage Industry Technical Center",
+   "kind": "school",
+   "lat": 14.6418611,
+   "lon": 121.1183326
+  },
+  {
+   "id": "way/93197648",
+   "name": "Infant Jesus Academy",
+   "kind": "school",
+   "lat": 14.6432693,
+   "lon": 121.1175699
+  },
+  {
+   "id": "way/93320662",
+   "name": "Kapitan Moy Elementary School",
+   "kind": "shelter",
+   "lat": 14.6490952,
+   "lon": 121.1186009,
+   "address": "Champagnat Street"
+  },
+  {
+   "id": "way/102524399",
+   "name": "Concepcion Dos Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6384033,
+   "lon": 121.1117723,
+   "address": "Pio Del Pilar Street"
+  },
+  {
+   "id": "way/104246692",
+   "name": "Bahay Pamahalaan ng Barangay Marikina Heights",
+   "kind": "townhall",
+   "lat": 14.6497466,
+   "lon": 121.1173261,
+   "address": "Liwasang Kalayaan"
+  },
+  {
+   "id": "way/104371863",
+   "name": "Garcia General Hospital",
+   "kind": "hospital",
+   "lat": 14.6512201,
+   "lon": 121.1109386,
+   "address": "45 Bayan-Bayanan Avenue"
+  },
+  {
+   "id": "way/114653232",
+   "name": "Nangka High School",
+   "kind": "school",
+   "lat": 14.6705454,
+   "lon": 121.1019688,
+   "address": "Kabayani Road"
+  },
+  {
+   "id": "way/114667414",
+   "name": "Jesus dela Peña Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.637125,
+   "lon": 121.0908079
+  },
+  {
+   "id": "way/114802045",
+   "name": "Fortune Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6633774,
+   "lon": 121.1274711,
+   "address": "Champaca 1"
+  },
+  {
+   "id": "way/115811589",
+   "name": "Calumpang Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6241264,
+   "lon": 121.093442
+  },
+  {
+   "id": "way/115811590",
+   "name": "Concepcion Uno Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6531695,
+   "lon": 121.104506,
+   "address": "Flores"
+  },
+  {
+   "id": "way/116061794",
+   "name": "Tañong Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6346091,
+   "lon": 121.0857521
+  },
+  {
+   "id": "way/116914604",
+   "name": "Bulwagang Pambarangay ng Malanday",
+   "kind": "townhall",
+   "lat": 14.6501649,
+   "lon": 121.0939323,
+   "address": "Malaya Street"
+  },
+  {
+   "id": "way/117481997",
+   "name": "Charis School",
+   "kind": "school",
+   "lat": 14.6437929,
+   "lon": 121.1139358,
+   "address": "Scarlet Street"
+  },
+  {
+   "id": "way/117630731",
+   "name": "Saint Anthony Medical Center",
+   "kind": "hospital",
+   "lat": 14.6245013,
+   "lon": 121.1027964,
+   "address": "32 B. Santa Ana Street"
+  },
+  {
+   "id": "way/118121899",
+   "name": "Padre Pio Learning Center",
+   "kind": "school",
+   "lat": 14.6345204,
+   "lon": 121.0941884,
+   "address": "12 Kapitan Herminio Siasoco Street"
+  },
+  {
+   "id": "way/119409741",
+   "name": "Mother of Angels",
+   "kind": "school",
+   "lat": 14.6337313,
+   "lon": 121.0827964,
+   "address": "5 Don Gonzalo Puyat Street"
+  },
+  {
+   "id": "way/119709412",
+   "name": "Unnamed police",
+   "kind": "police",
+   "lat": 14.6370903,
+   "lon": 121.0909554
+  },
+  {
+   "id": "way/120779195",
+   "name": "SDS Medical Center",
+   "kind": "hospital",
+   "lat": 14.6394487,
+   "lon": 121.110016,
+   "address": "Katipunan Street"
+  },
+  {
+   "id": "way/121189960",
+   "name": "San Ramon Hospital",
+   "kind": "hospital",
+   "lat": 14.6441046,
+   "lon": 121.1172145,
+   "address": "108 General Ordoñez Street"
+  },
+  {
+   "id": "way/121190400",
+   "name": "Just-E",
+   "kind": "clinic",
+   "lat": 14.6427764,
+   "lon": 121.1172534,
+   "address": "69 Russet Street"
+  },
+  {
+   "id": "way/162045159",
+   "name": "Saint Victoria Hospital",
+   "kind": "hospital",
+   "lat": 14.6421814,
+   "lon": 121.094689,
+   "address": "J. P. Rizal Street"
+  },
+  {
+   "id": "way/162639734",
+   "name": "St. Vincent Hospital",
+   "kind": "hospital",
+   "lat": 14.6509537,
+   "lon": 121.1076272,
+   "address": "Bayan-Bayanan Avenue"
+  },
+  {
+   "id": "way/220445928",
+   "name": "Primemont Science School",
+   "kind": "school",
+   "lat": 14.664774,
+   "lon": 121.114866,
+   "address": "33 R. Palma Extension"
+  },
+  {
+   "id": "way/221154039",
+   "name": "St. Nicholas Elementary School",
+   "kind": "school",
+   "lat": 14.663632,
+   "lon": 121.1032506,
+   "address": "Fairlane Street"
+  },
+  {
+   "id": "way/256058998",
+   "name": "VT Maternity Hospital",
+   "kind": "hospital",
+   "lat": 14.6371064,
+   "lon": 121.09944,
+   "address": "Toyota Avenue"
+  },
+  {
+   "id": "way/256322288",
+   "name": "Santo Niño Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6365673,
+   "lon": 121.0970729
+  },
+  {
+   "id": "way/256400351",
+   "name": "Bahay Pamahalaan ng Barangay Parang",
+   "kind": "townhall",
+   "lat": 14.6592024,
+   "lon": 121.112054,
+   "address": "P. Lopez Street"
+  },
+  {
+   "id": "way/256436315",
+   "name": "Marikina Filipino-Chinese Fire Brigade Volunteer",
+   "kind": "fire_station",
+   "lat": 14.6330381,
+   "lon": 121.0975418,
+   "address": "195 Shoe Avenue"
+  },
+  {
+   "id": "way/259567068",
+   "name": "Maria Regina Polyclinic",
+   "kind": "clinic",
+   "lat": 14.6356155,
+   "lon": 121.094639
+  },
+  {
+   "id": "way/260577284",
+   "name": "Links School for Life",
+   "kind": "school",
+   "lat": 14.6556136,
+   "lon": 121.0939128,
+   "address": "Monark Street"
+  },
+  {
+   "id": "way/262308307",
+   "name": "Jesus Immaculate Concepcion Hospital",
+   "kind": "hospital",
+   "lat": 14.6383662,
+   "lon": 121.1089582,
+   "address": "Katipunan Street"
+  },
+  {
+   "id": "way/262334714",
+   "name": "San Roque Barangay Health Center",
+   "kind": "clinic",
+   "lat": 14.623751,
+   "lon": 121.0970562,
+   "address": "M. A. Roxas Street"
+  },
+  {
+   "id": "way/263943913",
+   "name": "Santa Elena Health Center",
+   "kind": "clinic",
+   "lat": 14.6329415,
+   "lon": 121.0975818
+  },
+  {
+   "id": "way/273523449",
+   "name": "Industrial Valley Complex Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6270794,
+   "lon": 121.07978,
+   "address": "10 Major S. Dizon Street"
+  },
+  {
+   "id": "way/279488875",
+   "name": "Santa Elena High School",
+   "kind": "school",
+   "lat": 14.6323606,
+   "lon": 121.0973901,
+   "address": "W. C. Paz Street"
+  },
+  {
+   "id": "way/281984899",
+   "name": "Greenland Phase 1 Covered Court",
+   "kind": "shelter",
+   "lat": 14.6706644,
+   "lon": 121.1052213
+  },
+  {
+   "id": "way/289922991",
+   "name": "Bulwagang Pambarangay ng Nangka",
+   "kind": "townhall",
+   "lat": 14.6733439,
+   "lon": 121.1087045,
+   "address": "Old J. P. Rizal Street"
+  },
+  {
+   "id": "way/289963932",
+   "name": "Malanday Health Center",
+   "kind": "clinic",
+   "lat": 14.6509005,
+   "lon": 121.0966054,
+   "address": "Bulelak Street"
+  },
+  {
+   "id": "way/289994569",
+   "name": "Sta. Elena Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.633094,
+   "lon": 121.0973281,
+   "address": "2 E. Jacinto Street"
+  },
+  {
+   "id": "way/290486511",
+   "name": "Concepcion Elementary School",
+   "kind": "shelter",
+   "lat": 14.6478702,
+   "lon": 121.1037942,
+   "address": "16 J. Molina Street"
+  },
+  {
+   "id": "way/310467476",
+   "name": "PCP",
+   "kind": "police",
+   "lat": 14.621708,
+   "lon": 121.0932898
+  },
+  {
+   "id": "way/320623904",
+   "name": "Santo Niño Elementary School",
+   "kind": "shelter",
+   "lat": 14.6382713,
+   "lon": 121.0963538,
+   "address": "0-1 P. Antonio Street"
+  },
+  {
+   "id": "way/325151690",
+   "name": "MMDA - Police Station",
+   "kind": "police",
+   "lat": 14.6211308,
+   "lon": 121.1049324
+  },
+  {
+   "id": "way/332229833",
+   "name": "Unnamed townhall",
+   "kind": "townhall",
+   "lat": 14.6343771,
+   "lon": 121.0874716
+  },
+  {
+   "id": "way/427751713",
+   "name": "San Lorenzo Ruiz de Manila School",
+   "kind": "school",
+   "lat": 14.6703605,
+   "lon": 121.1075856,
+   "address": "Buenmar Street"
+  },
+  {
+   "id": "way/432783339",
+   "name": "Nangka Gym",
+   "kind": "shelter",
+   "lat": 14.6724708,
+   "lon": 121.1084077,
+   "address": "Balubad Street"
+  },
+  {
+   "id": "way/434345194",
+   "name": "Unnamed clinic",
+   "kind": "clinic",
+   "lat": 14.6495299,
+   "lon": 121.1006709,
+   "address": "791"
+  },
+  {
+   "id": "way/434696434",
+   "name": "Concepcion Derma Center",
+   "kind": "clinic",
+   "lat": 14.6495153,
+   "lon": 121.1002825,
+   "address": "785 J. P. Rizal Street"
+  },
+  {
+   "id": "way/446778587",
+   "name": "Saint Mary Elementary School",
+   "kind": "shelter",
+   "lat": 14.6687034,
+   "lon": 121.1134833,
+   "address": "2 Socorro Street"
+  },
+  {
+   "id": "way/476209202",
+   "name": "Barangka Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6330102,
+   "lon": 121.0822201,
+   "address": "General Julian Cruz Street"
+  },
+  {
+   "id": "way/477404423",
+   "name": "Parang Local Police",
+   "kind": "police",
+   "lat": 14.6593126,
+   "lon": 121.1120346
+  },
+  {
+   "id": "way/477634159",
+   "name": "Parang Fire Station",
+   "kind": "fire_station",
+   "lat": 14.6575021,
+   "lon": 121.1081745,
+   "address": "General B. G. Molina Street"
+  },
+  {
+   "id": "way/477645762",
+   "name": "De Guzman Clinic",
+   "kind": "hospital",
+   "lat": 14.6570412,
+   "lon": 121.1066938
+  },
+  {
+   "id": "way/550898667",
+   "name": "Medical Arts Building",
+   "kind": "clinic",
+   "lat": 14.6348077,
+   "lon": 121.1043912
+  },
+  {
+   "id": "way/572835044",
+   "name": "Integrated School for Young Children",
+   "kind": "school",
+   "lat": 14.6418623,
+   "lon": 121.1044139,
+   "address": "Mayor Gil Fernando Avenue"
+  },
+  {
+   "id": "way/734721280",
+   "name": "Parang Police Community Precinct",
+   "kind": "police",
+   "lat": 14.660658,
+   "lon": 121.1144484,
+   "address": "2 Lakandula"
+  },
+  {
+   "id": "way/791611829",
+   "name": "Marikina Molecular Diagnostic Laboratory",
+   "kind": "clinic",
+   "lat": 14.6508595,
+   "lon": 121.1104386,
+   "address": "Bayan-Bayanan Avenue"
+  },
+  {
+   "id": "way/796737871",
+   "name": "St. Ignatius De Loyola Health Care Services",
+   "kind": "clinic",
+   "lat": 14.6364146,
+   "lon": 121.0971162,
+   "address": "Shoe Avenue"
+  },
+  {
+   "id": "way/807932608",
+   "name": "Jesus Dela Peña National High School",
+   "kind": "school",
+   "lat": 14.6351971,
+   "lon": 121.0900225,
+   "address": "A. Bonifacio Avenue"
+  },
+  {
+   "id": "way/810823112",
+   "name": "Unnamed school",
+   "kind": "school",
+   "lat": 14.6660732,
+   "lon": 121.1180918
+  },
+  {
+   "id": "way/822895250",
+   "name": "SF Direct",
+   "kind": "fire_station",
+   "lat": 14.6400941,
+   "lon": 121.0988099,
+   "address": "Eraño G. Manalo Street"
+  },
+  {
+   "id": "way/837310813",
+   "name": "Marikina City Central Fire Station",
+   "kind": "fire_station",
+   "lat": 14.6331078,
+   "lon": 121.0974927,
+   "address": "Shoe Avenue"
+  },
+  {
+   "id": "way/837310815",
+   "name": "National TVET Trainers Academy",
+   "kind": "school",
+   "lat": 14.6320687,
+   "lon": 121.0989929,
+   "address": "Mayor Juan Chanyungco Street"
+  },
+  {
+   "id": "way/837310816",
+   "name": "Marikina Science High School",
+   "kind": "school",
+   "lat": 14.6316363,
+   "lon": 121.0994206,
+   "address": "Mayor Juan Chanyungco Street"
+  },
+  {
+   "id": "way/871528585",
+   "name": "San Roque Barangay Hall",
+   "kind": "townhall",
+   "lat": 14.6291236,
+   "lon": 121.0983709,
+   "address": "210 Mayor Munding Avenue"
+  },
+  {
+   "id": "way/872138299",
+   "name": "Drawline Wisdom Learning Center, Inc.",
+   "kind": "school",
+   "lat": 14.6439423,
+   "lon": 121.0999876,
+   "address": "496 Shoe Avenue"
+  },
+  {
+   "id": "way/872191731",
+   "name": "Marikina City Health Center",
+   "kind": "clinic",
+   "lat": 14.6482768,
+   "lon": 121.1041374,
+   "address": "J. Molina Street"
+  },
+  {
+   "id": "way/874470851",
+   "name": "Bulwagang Pambarangay ng Santo Niño",
+   "kind": "townhall",
+   "lat": 14.6404411,
+   "lon": 121.0967283,
+   "address": "Eustaquio Street"
+  },
+  {
+   "id": "way/874969338",
+   "name": "Bahay Pamahalaan ng Barangay Tumana",
+   "kind": "townhall",
+   "lat": 14.6607555,
+   "lon": 121.1004146,
+   "address": "Road 1 Extension"
+  },
+  {
+   "id": "way/1023480834",
+   "name": "Missionaries of the Sacred Heart Academy",
+   "kind": "school",
+   "lat": 14.6559312,
+   "lon": 121.1307533
+  },
+  {
+   "id": "way/1120349482",
+   "name": "Dynamic Thinkers Educational Center, Inc.",
+   "kind": "school",
+   "lat": 14.644234,
+   "lon": 121.1212255,
+   "address": "21 Lilac Street, Hacienda Heights Subdivision, Lilac Street"
+  },
+  {
+   "id": "way/1120352484",
+   "name": "Laro, Lapis at Libro, Inc.",
+   "kind": "school",
+   "lat": 14.6325432,
+   "lon": 121.1029423,
+   "address": "6 Mount Vernon Street"
+  },
+  {
+   "id": "way/1120357994",
+   "name": "Majestic Learning Center",
+   "kind": "school",
+   "lat": 14.6623605,
+   "lon": 121.1050653,
+   "address": "18 Majestic Street"
+  },
+  {
+   "id": "way/1191696251",
+   "name": "Tumana Health Center & Lying-in Clinic",
+   "kind": "clinic",
+   "lat": 14.6534316,
+   "lon": 121.1025823,
+   "address": "Bagong Farmers Avenue I"
+  },
+  {
+   "id": "way/1264727142",
+   "name": "Irvinghall School",
+   "kind": "school",
+   "lat": 14.6500027,
+   "lon": 121.101719,
+   "address": "61 F. Josef Street"
+  },
+  {
+   "id": "way/1290815713",
+   "name": "Marikina Doctors Hospital and Medical Center",
+   "kind": "hospital",
+   "lat": 14.6210693,
+   "lon": 121.0825904,
+   "address": "10 Evangelista Avenue"
+  },
+  {
+   "id": "way/1298345487",
+   "name": "Nangka Fire Station",
+   "kind": "fire_station",
+   "lat": 14.6665009,
+   "lon": 121.1066789
+  },
+  {
+   "id": "way/1301048054",
+   "name": "Infant Jesus Academy",
+   "kind": "school",
+   "lat": 14.6449124,
+   "lon": 121.1173813
+  },
+  {
+   "id": "way/1301199232",
+   "name": "Unnamed clinic",
+   "kind": "clinic",
+   "lat": 14.6434352,
+   "lon": 121.1176876
+  },
+  {
+   "id": "way/1357193210",
+   "name": "Jehoshua Academy",
+   "kind": "school",
+   "lat": 14.6459393,
+   "lon": 121.1158463,
+   "address": "86 Dao Street"
+  },
+  {
+   "id": "relation/14982446",
+   "name": "Fortune Elementary School",
+   "kind": "school",
+   "lat": 14.6593072,
+   "lon": 121.1263166,
+   "address": "Santan Street"
+  },
+  {
+   "id": "relation/14982447",
+   "name": "Fortune High School",
+   "kind": "school",
+   "lat": 14.6597086,
+   "lon": 121.1270842,
+   "address": "Santan Street"
+  },
+  {
+   "id": "relation/15577274",
+   "name": "Passionist Sisters' School",
+   "kind": "school",
+   "lat": 14.6486639,
+   "lon": 121.1243854,
+   "address": "81 Tanguile Street"
+  },
+  {
+   "id": "relation/15661981",
+   "name": "Infant Jesus Academy",
+   "kind": "school",
+   "lat": 14.6455179,
+   "lon": 121.1181344,
+   "address": "50 Ipil Street"
+  },
+  {
+   "id": "relation/15675627",
+   "name": "Ingenium School",
+   "kind": "school",
+   "lat": 14.6378328,
+   "lon": 121.1110599,
+   "address": "Pio Del Pilar Street"
+  },
+  {
+   "id": "relation/17728121",
+   "name": "San Roque National High School",
+   "kind": "school",
+   "lat": 14.6227612,
+   "lon": 121.0971761,
+   "address": "Nicanor Roxas Street"
+  },
+  {
+   "id": "relation/17728122",
+   "name": "Pamantasan ng Lungsod ng Marikina - Senior High School",
+   "kind": "school",
+   "lat": 14.6228648,
+   "lon": 121.0967297,
+   "address": "Nicanor Roxas Street"
+  },
+  {
+   "id": "relation/17728123",
+   "name": "San Roque Elementary School",
+   "kind": "school",
+   "lat": 14.6232369,
+   "lon": 121.0969232,
+   "address": "Abad Santos Street"
+  },
+  {
+   "id": "relation/17734127",
+   "name": "Marikina Valley Medical Center",
+   "kind": "hospital",
+   "lat": 14.6348962,
+   "lon": 121.1041207,
+   "address": "Sumulong Highway"
+  },
+  {
+   "id": "relation/17757026",
+   "name": "P. Gonzales Memorial Hospital",
+   "kind": "hospital",
+   "lat": 14.6491275,
+   "lon": 121.0984563,
+   "address": "582 J. P. Rizal Street"
+  },
+  {
+   "id": "relation/17772054",
+   "name": "Marist School",
+   "kind": "school",
+   "lat": 14.6467338,
+   "lon": 121.1246788,
+   "address": "83 Champagnat Street"
+  },
+  {
+   "id": "relation/17772231",
+   "name": "Marikina Heights National High School",
+   "kind": "shelter",
+   "lat": 14.648213,
+   "lon": 121.1197473,
+   "address": "Champagnat Street"
+  },
+  {
+   "id": "relation/17772411",
+   "name": "Holy Trinity School of St. Therese of the Child Jesus",
+   "kind": "school",
+   "lat": 14.6475001,
+   "lon": 121.1191175,
+   "address": "95 Ipil Street"
+  },
+  {
+   "id": "relation/17934577",
+   "name": "Infant Jesus Academy Marikina",
+   "kind": "school",
+   "lat": 14.644064,
+   "lon": 121.1175201
+  },
+  {
+   "id": "relation/18787088",
+   "name": "Marikina Christian Integrated School",
+   "kind": "school",
+   "lat": 14.6404471,
+   "lon": 121.1201482,
+   "address": "84 Rainbow Street"
+  },
+  {
+   "id": "relation/19046161",
+   "name": "Barangka National High School",
+   "kind": "school",
+   "lat": 14.6336394,
+   "lon": 121.0815155,
+   "address": "119 A. Bonifacio Avenue"
+  },
+  {
+   "id": "relation/19046162",
+   "name": "Barangka Elementary School",
+   "kind": "shelter",
+   "lat": 14.6334519,
+   "lon": 121.0819427,
+   "address": "119 A. Bonifacio Avenue"
+  },
+  {
+   "id": "relation/19046255",
+   "name": "Kalumpang National High School",
+   "kind": "school",
+   "lat": 14.6221124,
+   "lon": 121.0899721
+  },
+  {
+   "id": "relation/19046256",
+   "name": "Kalumpang Elementary School",
+   "kind": "shelter",
+   "lat": 14.6224264,
+   "lon": 121.0900334,
+   "address": "Kagitingan Street"
+  },
+  {
+   "id": "relation/19046261",
+   "name": "SSS National High School",
+   "kind": "school",
+   "lat": 14.6398053,
+   "lon": 121.1213274
+  },
+  {
+   "id": "relation/19046262",
+   "name": "SSS Village Elementary School",
+   "kind": "school",
+   "lat": 14.6401826,
+   "lon": 121.1213676,
+   "address": "Lilac Street"
+  }
+ ]
+}

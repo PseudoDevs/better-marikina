@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+/*
+ * Blue and white, after the river blue of the Marikina City seal (#009aeb).
+ * Text tones are darkened from the seal value to pass WCAG AA on white.
+ * Light only: the site does not follow the OS dark-mode setting.
+ */
+:root {
+  color-scheme: light;
+  --paper: #f5f9fd;
+  --surface: #ffffff;
+  --surface-2: #eaf2fa;
+  --ink: #0f2233;
+  --ink-muted: #4e6175;
+  --line: #d6e3ef;
+  --brand: #006fae;
+  --brand-strong: #00508a;
+  --brand-soft: #e1f1fc;
+  --seal-blue: #009aeb;
+  --ok: #1a7f3c;
+  --ok-soft: #e1f4e7;
+  --warn: #7a5a00;
+  --warn-soft: #fff3b0;
+  --alarm: #b34700;
+  --alarm-soft: #ffe6d1;
+  --danger: #c00000;
+  --danger-soft: #fde0e0;
+  --scroll-thumb: #a8c2d8;
+  --scroll-thumb-hover: #006fae;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-soft: var(--brand-soft);
+  --color-seal-blue: var(--seal-blue);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-alarm: var(--alarm);
+  --color-alarm-soft: var(--alarm-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * Scrollbars: a slim rounded blue thumb. Chromium and Safari use the
+ * ::-webkit-scrollbar pseudo-elements (the only way to round the thumb);
+ * Firefox gets the standard properties. The standard ones are scoped to
+ * Firefox because Chromium ignores the pseudo-elements once they are set.
+ */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--scroll-thumb);
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background-clip: padding-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--scroll-thumb-hover);
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+@supports (-moz-appearance: none) {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--scroll-thumb) transparent;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+.font-display {
+  font-family: var(--font-display), var(--font-body), sans-serif;
+  letter-spacing: -0.02em;
+}
+
+.leaflet-container {
+  font-family: inherit;
+  background: var(--surface-2);
+}
