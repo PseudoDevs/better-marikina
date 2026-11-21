@@ -9,7 +9,8 @@
     "lint": "eslint",
     "snapshot:amenities": "node scripts/snapshot-amenities.mjs",
     "snapshot:fdpp": "node scripts/snapshot-fdpp.mjs",
-    "snapshot:citygov": "node scripts/snapshot-citygov.mjs"
+    "snapshot:citygov": "node scripts/snapshot-citygov.mjs",
+    "snapshot:mnc": "node scripts/snapshot-mnc.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",

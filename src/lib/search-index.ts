@@ -36,7 +36,7 @@ export const searchIndex: SearchItem[] = [
   { title: "Projects & procurement", href: "/projects", kind: "Transparency", text: "projects proyekto bids bidding award contract infrastructure procurement kontrata" },
   { title: "City budget & financial reports", href: "/transparency", kind: "Transparency", text: "budget badyet full disclosure finances utang debt expenditures sef ldrrmf gad" },
   { title: "Ordinances & resolutions", href: "/ordinances", kind: "Transparency", text: "ordinance ordinansa resolution batas law city council sangguniang" },
-  { title: "City news releases", href: "/news", kind: "News", text: "news balita announcement anunsyo updates pio" },
+  { title: "Marikina news", href: "/news", kind: "News", text: "news balita announcement anunsyo updates pio metro news central" },
   { title: "Our City: history of Marikina", href: "/our-city", kind: "About", text: "history kasaysayan shoe capital kapitan moy geography location land area our city" },
   { title: "City officials", href: "/government", kind: "Government", text: "mayor vice mayor councilor konsehal congressman officials teodoro" },
   { title: "Marikina River water level", href: "/flood", kind: "Live", text: "flood baha river level alarm sto nino evacuation" },

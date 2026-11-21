@@ -35,7 +35,7 @@ export function SiteFooter() {
             ["/projects", "Projects & procurement"],
             ["/transparency", "Budget & disclosures"],
             ["/ordinances", "Ordinances"],
-            ["/news", "City news"],
+            ["/news", "News"],
           ]}
         />
         <FooterCol

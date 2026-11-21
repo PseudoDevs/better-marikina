@@ -5,7 +5,11 @@ const nextConfig: NextConfig = {
   partialPrefetching: true,
   images: {
     // Officials' photos and news images hosted by the City Government
-    remotePatterns: [{ protocol: "https", hostname: "www.marikina.gov.ph", pathname: "/images/**" }],
+    remotePatterns: [
+      { protocol: "https", hostname: "www.marikina.gov.ph", pathname: "/images/**" },
+      // Metro News Central story photos (shown with a link to the original story)
+      { protocol: "https", hostname: "metronewscentral.net", pathname: "/msadmin/images/**" },
+    ],
   },
   // Lifetimes for the live public feeds (seconds). River and quake feeds
   // update every few minutes; weather hourly; OSM amenities rarely.

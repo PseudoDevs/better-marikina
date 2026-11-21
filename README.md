@@ -50,7 +50,8 @@ Marikina**.
 - 🔎 **Projects** (`/projects`): every procurement notice (bids, awards, notices to proceed, reports), searchable and filterable
 - 📊 **Transparency** (`/transparency`): Full Disclosure Policy documents by year (budget, debt, fund utilization) with plain-language notes
 - 📜 **Ordinances** (`/ordinances`): searchable ordinances and resolutions, linked to the full text
-- 📰 **News** (`/news`): city news releases from marikina.gov.ph with the full article text
+- 📰 **News** (`/news`): city news releases from marikina.gov.ph with the full article text, plus
+  local coverage from Metro News Central (headline, photo and summary, linked to the original), newest first
 
 **Love your city**
 - 🏞️ **Our City and Tourism** (`/our-city`, `/tourism`): history, quick facts, a timeline and places to visit
@@ -77,6 +78,7 @@ A flood is exactly when government servers get slow. So the site is built to kee
 | Map places | OpenStreetMap via Overpass (ODbL), with a committed snapshot fallback | daily |
 | Procurement, disclosures, ordinances | Marikina Full Disclosure Policy Portal (fdpp.marikina.gov.ph), with a committed snapshot fallback | 6 h |
 | News releases | marikina.gov.ph `POST /fetch_news_side` (needs session cookie + CSRF), article pages parsed to plain text | 6 h list, 1 day per article |
+| Local news | Metro News Central Marikina edition: homepage links + each story's JSON-LD (headline, date, photo, description only; robots.txt `use=reference`), with a committed snapshot fallback | 6 h |
 | Officials, Our City text | marikina.gov.ph/our-city, served from the committed snapshot | `npm run snapshot:citygov` |
 
 <details>
@@ -103,6 +105,7 @@ npm run build && npm start
 npm run snapshot:amenities   # refresh the OSM fallback snapshot
 npm run snapshot:fdpp        # refresh the transparency-portal fallback snapshot
 npm run snapshot:citygov     # refresh officials, Our City text and news (retries slow pages)
+npm run snapshot:mnc         # refresh the Metro News Central fallback snapshot
 ```
 
 ## Help make it better
