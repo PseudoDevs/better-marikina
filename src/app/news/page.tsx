@@ -87,6 +87,10 @@ async function NewsList() {
                     src={n.image}
                     alt=""
                     fill
+                    // metronewscentral.net refuses Vercel's image optimizer
+                    // (502 OPTIMIZED_EXTERNAL_IMAGE_REQUEST_UNAUTHORIZED) but
+                    // serves browsers fine, so load those photos directly.
+                    unoptimized={external}
                     sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw"
                     className="object-cover"
                   />
